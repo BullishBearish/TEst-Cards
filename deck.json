@@ -12,7 +12,21 @@
             "extendRev": 50,
             "media_files": [],
             "name": " подпапка раз",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "221211111111111",
+                        "1221111111111111111"
+                    ],
+                    "flags": 0,
+                    "guid": "J=JZ{tL$dY",
+                    "newlyAdded": false,
+                    "note_model_uuid": "6012474c-3bcc-11ea-8774-f9a7690c507d",
+                    "tags": []
+                }
+            ]
         },
         {
             "__type__": "Deck",
@@ -25,7 +39,21 @@
             "extendRev": 50,
             "media_files": [],
             "name": "подпапка два",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "2342222222222222",
+                        "123322222222222222222"
+                    ],
+                    "flags": 0,
+                    "guid": "lm*+W=X3PF",
+                    "newlyAdded": false,
+                    "note_model_uuid": "6012474c-3bcc-11ea-8774-f9a7690c507d",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "288f5080-3c91-11ea-acbf-f9a7690c507d",
@@ -120,11 +148,11 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-83c5c",
             "req": [
                 [
                     0,
-                    "all",
+                    "any",
                     [
                         0
                     ]
@@ -157,6 +185,7 @@
             ],
             "flags": 0,
             "guid": "yr1,4-IR0w",
+            "newlyAdded": false,
             "note_model_uuid": "6012474c-3bcc-11ea-8774-f9a7690c507d",
             "tags": []
         }
